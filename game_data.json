@@ -1,7 +1,7 @@
 {
     "player": {
         "max_health": 100,
-        "health": 100,
+        "health": 75,
         "max_mana": 50,
         "mana": 50,
         "speed": 5,
@@ -15,11 +15,11 @@
                 "mana_cost": 15
             }
         },
-        "money": 150
+        "money": 330
     },
     "enemy": {
         "max_health": 50,
-        "health": 25,
+        "health": 50,
         "position": [
             500,
             400
